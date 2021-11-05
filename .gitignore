@@ -1,0 +1,5 @@
+*.csv
+*.jpeg
+.ipynb_checkpoints/
+hw2 V2.ipynb
+HW2.ipynb
